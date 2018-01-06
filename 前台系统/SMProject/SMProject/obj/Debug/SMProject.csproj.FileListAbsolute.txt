@@ -1,0 +1,55 @@
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\SMProject.exe.config
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\SMProject.exe
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\SMProject.pdb
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\DAL.dll
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\Models.dll
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\SMProject\SMProject\bin\Debug\Models.pdb
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.FrmBalance.resources
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.FrmLogin.resources
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.FrmSaleManage.resources
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.Properties.Resources.resources
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.exe
+C:\Users\user\Desktop\SMProject\SMProject\obj\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【1】A-视频源版\2017\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【05】商品结算UI与业务逻辑实现\同步教学源码\SMProject\SMProject\bin\Debug\SMProject.exe.config
+R:\【1】课程课件\【1】.NET\【1】A-视频源版\2017\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【05】商品结算UI与业务逻辑实现\同步教学源码\SMProject\SMProject\obj\Debug\SMProject.exe
+R:\【1】课程课件\【1】.NET\【1】A-视频源版\2017\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【05】商品结算UI与业务逻辑实现\同步教学源码\SMProject\SMProject\obj\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\bin\Debug\SMProject.exe.config
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.exe
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.csprojResolveAssemblyReference.cache
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.FrmBalance.resources
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.FrmLogin.resources
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.FrmSaleManage.resources
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.Properties.Resources.resources
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\obj\Debug\SMProject.csproj.GenerateResource.Cache
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\bin\Debug\SMProject.exe
+R:\【1】课程课件\【1】.NET\【3】A-授课课件\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【1】项目相关资料\【1】项目UI\SMProject\SMProject\bin\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\bin\Debug\SMProject.exe.config
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.exe
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\bin\Debug\SMProject.exe
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\bin\Debug\SMProject.pdb
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.csprojResolveAssemblyReference.cache
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.FrmBalance.resources
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.FrmLogin.resources
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.FrmSaleManage.resources
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.Properties.Resources.resources
+R:\【1】课程课件\【1】.NET\【2】A-全套课程\2017-2\课程[08]【中级突破】：【项目实战】（二）超市前台结算系统\【00】项目资料、效果展示、补充知识讲解\【1】项目所需资料\【2】项目UI（项目功能请按照视频讲解自行实现）\SMProject\SMProject\obj\Debug\SMProject.csproj.GenerateResource.Cache
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\SMProject.exe.config
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.exe
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\SMProject.exe
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\SMProject.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\DAL.dll
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\Models.dll
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\DAL.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\bin\Debug\Models.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.csprojResolveAssemblyReference.cache
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.FrmBalance.resources
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.FrmLogin.resources
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.FrmSaleManage.resources
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.Properties.Resources.resources
+C:\2Study\Xiketang Code\CoursePractice\Course8\SMProject\SMProject\obj\Debug\SMProject.csproj.GenerateResource.Cache

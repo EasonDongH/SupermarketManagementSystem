@@ -1,0 +1,12 @@
+【2015/8/27 10:18:36】错误信息：执行GetReaderByProcedure(string procedureName, SqlParameter[] param)方法时发生错误，具体信息：找不到存储过程 'usp_AdminLogin'。
+【2015/8/27 11:06:06】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 float 转换为 numeric 时出错。
+【2015/8/27 11:07:35】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 float 转换为 numeric 时出错。
+【2015/8/27 11:11:06】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 numeric 转换为 numeric 时出错。
+【2015/8/27 11:11:17】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 numeric 转换为 numeric 时出错。
+【2015/8/27 11:11:23】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 numeric 转换为 numeric 时出错。
+【2015/8/27 11:11:28】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 numeric 转换为 numeric 时出错。
+【2015/8/27 11:12:08】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：从数据类型 numeric 转换为 numeric 时出错。
+【2015/8/27 11:24:38】错误信息：执行UpdateByProcedure(string storeProcedureName, SqlParameter[] param)方法时发生错误，具体信息：违反了 PRIMARY KEY 约束“PK__Products__B40CC6CD07020F21”。不能在对象“dbo.Products”中插入重复键。重复键值为 (6005004003001)。
+违反了 PRIMARY KEY 约束“PK__ProductI__B40CC6CD0F975522”。不能在对象“dbo.ProductInventory”中插入重复键。重复键值为 (6005004003001)。
+语句已终止。
+语句已终止。

@@ -1,0 +1,45 @@
+E:\超市前台结算与进销存管理\V2.0\SMProject\Models\bin\Debug\Models.dll
+E:\超市前台结算与进销存管理\V2.0\SMProject\Models\bin\Debug\Models.pdb
+E:\超市前台结算与进销存管理\V2.0\SMProject\Models\obj\Debug\ResolveAssemblyReference.cache
+E:\超市前台结算与进销存管理\V2.0\SMProject\Models\obj\Debug\Models.dll
+E:\超市前台结算与进销存管理\V2.0\SMProject\Models\obj\Debug\Models.pdb
+E:\IT-Bachelor（上）\IT-Bachelor（上）课程[3]：超市后台管理系统（企业项目）\SMProject\Models\bin\Debug\Models.dll
+E:\IT-Bachelor（上）\IT-Bachelor（上）课程[3]：超市后台管理系统（企业项目）\SMProject\Models\bin\Debug\Models.pdb
+E:\IT-Bachelor（上）\IT-Bachelor（上）课程[3]：超市后台管理系统（企业项目）\SMProject\Models\obj\Debug\ResolveAssemblyReference.cache
+E:\IT-Bachelor（上）\IT-Bachelor（上）课程[3]：超市后台管理系统（企业项目）\SMProject\Models\obj\Debug\Models.dll
+E:\IT-Bachelor（上）\IT-Bachelor（上）课程[3]：超市后台管理系统（企业项目）\SMProject\Models\obj\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\完整项目源码\SMProject\Models\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\完整项目源码\SMProject\Models\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\完整项目源码\SMProject\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\完整项目源码\SMProject\Models\obj\Debug\Models.dll
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\完整项目源码\SMProject\Models\obj\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\01_项目文档与相关资料\同步教学源码\4.3_添加商品模块\SMProject\Models\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\01_项目文档与相关资料\同步教学源码\4.3_添加商品模块\SMProject\Models\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\01_项目文档与相关资料\同步教学源码\4.3_添加商品模块\SMProject\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\01_项目文档与相关资料\同步教学源码\4.3_添加商品模块\SMProject\Models\obj\Debug\Models.dll
+C:\Users\Administrator\Desktop\IT-Bachelor（上）课程[4]：超市后台管理系统（企业项目）\01_项目文档与相关资料\同步教学源码\4.3_添加商品模块\SMProject\Models\obj\Debug\Models.pdb
+D:\课程产品\02_中级课程（2014）\课程[7]【企业项目】_超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.dll
+D:\课程产品\02_中级课程（2014）\课程[7]【企业项目】_超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.pdb
+D:\课程产品\02_中级课程（2014）\课程[7]【企业项目】_超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\ResolveAssemblyReference.cache
+D:\课程产品\02_中级课程（2014）\课程[7]【企业项目】_超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.dll
+D:\课程产品\02_中级课程（2014）\课程[7]【企业项目】_超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.pdb
+D:\A方案VIP授课\A方案项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.dll
+D:\A方案VIP授课\A方案项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.pdb
+D:\A方案VIP授课\A方案项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.dll
+D:\A方案VIP授课\A方案项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.pdb
+D:\A方案VIP授课\A方案项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2015-2-VIP项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.dll
+J:\[2]_课件备份\【1】NET\2015-2-VIP项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\bin\Debug\Models.pdb
+J:\[2]_课件备份\【1】NET\2015-2-VIP项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2015-2-VIP项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.dll
+J:\[2]_课件备份\【1】NET\2015-2-VIP项目\3.中级突破\4.【企业项目】超市后台管理系统设计与实现\同步教学源码\4.8_系统管理模块\SMProject\Models\obj\Debug\Models.pdb
+F:\今日授课\课程[11]【中级综合】：【项目实战】（三）超市后台管理系统\项目完整源码（演示）\2.超市后台管理系统\SMProject\Models\bin\Debug\Models.dll
+F:\今日授课\课程[11]【中级综合】：【项目实战】（三）超市后台管理系统\项目完整源码（演示）\2.超市后台管理系统\SMProject\Models\bin\Debug\Models.pdb
+F:\今日授课\课程[11]【中级综合】：【项目实战】（三）超市后台管理系统\项目完整源码（演示）\2.超市后台管理系统\SMProject\Models\obj\Debug\Models.dll
+F:\今日授课\课程[11]【中级综合】：【项目实战】（三）超市后台管理系统\项目完整源码（演示）\2.超市后台管理系统\SMProject\Models\obj\Debug\Models.pdb
+F:\今日授课\课程[11]【中级综合】：【项目实战】（三）超市后台管理系统\项目完整源码（演示）\2.超市后台管理系统\SMProject\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\Models\bin\Debug\Models.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\Models\bin\Debug\Models.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\Models\obj\Debug\Models.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\Models\obj\Debug\Models.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\BLL.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\BLL.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\DAL.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\Models.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\DAL.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\bin\Debug\Models.pdb
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\obj\Debug\BLL.dll
+C:\2Study\Xiketang Code\CoursePractice\Course11\SMProject\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,141 @@
+--if exists(select * from sysobjects where name='SMDB')
+--	drop database SMDB
+--go
+
+--use SMDB
+--go
+
+--create table Products
+--(
+--	ProductId varchar(50) not null primary key ,
+--	ProductName varchar(50) not null,
+--	UnitPrice numeric(8,2) not null,
+--	Unit varchar(50) not null,
+--	Discount numeric(3,2),
+--	CategoryId int not null
+--)
+
+----Category  种类
+--create table ProductCategory
+--(
+--	CategoryId int not null primary key,
+--	CategoryName varchar(20) not null
+--)
+----仓库
+--create table ProductStorage
+--(
+--	StorageId int identity(10000,1) primary key,
+--	ProductId varchar(50),--可以为null，表示还未确定，但要键入值只能是外键值
+--	AddedCount int not null,
+--	CurrentTime smalldatetime not null
+--)
+
+--create table ProductUnit
+--(
+--	UnitId int identity(1,1) primary key,
+--	Unit varchar(20) not null
+--)
+----存货
+--create table ProductInventory
+--(
+--	ProductId varchar(50) not null primary key,
+--	TotalCount int not null,
+--	MinCount int not null,--max and min 用来预警存量
+--	MaxCount int not null,
+--	StatusId int --可以为null，表示还未确定，但要键入值只能是外键值
+--)
+
+--create  table InventoryStatus
+--(
+--	StatusId int identity(1,1) primary key,
+--	StatusDesc varchar(50) not null --状态描述
+--)
+--if exists(select * from sysobjects where name='fk_CategoryId')
+--	alter table Products drop constraint fk_CategoryId
+--go
+--alter table Products add constraint fk_CategoryId foreign key (CategoryId) references ProductCategory(CategoryId)
+----单位表
+----alter table Products add constraint fk_Unit foreign key (UnitId) references ProductCategory(UnitId)
+
+--if exists(select * from sysobjects where name='fk_ProductId_PS')
+--	alter table ProductStorage drop constraint fk_ProductId_PS
+--go
+--alter table ProductStorage add constraint fk_ProductId_PS foreign key (ProductId) references Products (ProductId)
+
+--if exists(select * from sysobjects where name='fk_ProductId_PI')
+--	alter table ProductInventory drop constraint fk_ProductId_PI
+--go
+--alter table ProductInventory add constraint fk_ProductId_PI foreign key (ProductId) references Products (ProductId)
+
+--if exists(select * from sysobjects where name='fk_StatusId')
+--	alter table ProductInventory drop constraint fk_StatusId
+--go
+--alter table ProductInventory add constraint fk_StatusId foreign key (StatusId) references InventoryStatus (StatusId)
+--create table SalesPerson
+--(
+--	SalePersonId int  primary key,--刷卡获取ID
+--	SalePersonName varchar(20) not null,
+--	LoginPwd varchar(50) not null
+--)
+--create table SalesList
+--(
+--	SerialNum varchar(50) primary key,--主键不能为null
+--	TotalMoney numeric(10,2) not null,
+--	ReadlReceive numeric(10,2) not null,
+--	ReturnMoney numeric(10,2) not null,
+--	SalePeronId int references SalesPerson(SalePersonId) not null,
+--	SalePeronName varchar(20) not null,--这里记录人名，是为了防止同一个ID被不同人使用的时候，能够具体追溯到哪个人
+--	SaleDate smalldatetime default(getdate())
+--)
+
+--create table SalesListDetail
+--(
+--	DetailId int identity(1,1) primary key,
+--	SerialNum varchar(50) not null references SalesList(SerialNum),
+--	ProductId varchar(50) not null,--必然是Products里的值，不需要再约束
+--	ProductName varchar(50) not null,
+--	UnitPrice numeric(10,2) not null,
+--	Discount int,
+--	Quantity int not null,
+--	SubTotalMoney numeric(10,2)--为什么可以为null
+--)
+
+--create table SysAdmins
+--(
+--	LoginId int primary key,--刷卡获取
+--	LoginPwd varchar(20) not null,
+--	AdminName varchar(20) default('管理员'),
+--	AdminStatus bit default(1), --当前状态（1：启用；0：禁用）
+--	RoleId int default('2')--角色编号（1：超级管理员；2：一般管理员）
+--)
+
+--create table SMMembers
+--(
+--	MemberId int primary key,
+--	MemberName varchar(50) not null,
+--	Points int default(0),
+--	PhoneNumber varchar(50) not null,
+--	MemberAddress text default('未知'),
+--	OpenTime datetime default(getdate()),--开户时间
+--	MemberStatus int default(1) not null--会员卡状态（1：正常使用；0：冻结；-1：注销）
+--)
+
+--create table LoginLogs
+--(
+--	LogId int identity(10001,1) primary key,
+--	LoginId int not null,--可能是管理员登录或者是销售员登录
+--	LoginName varchar(50) not null,
+--	ServerName varchar(20) not null,
+--	LoginTime datetime default(getdate()),
+--	ExitTime datetime not null
+--)
+
+--create table ErrorLogs
+--(
+--	ErrorId int identity(1,1) primary key,
+--	OccurTime datetime default(getdate()),
+--	ServerName varchar(50) default('记录失败'),--不能因为错误记录而中止程序或报出错误，影响用户体验
+--	LoginId int,
+--	ErrorDesc text default('未知错误')
+--)
+
